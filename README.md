@@ -114,15 +114,13 @@ plt.axis('off')
 plt.show()
 ```
 ## Output:
-
-<img width="556" height="373" alt="image" src="https://github.com/user-attachments/assets/6125b451-98ee-4e04-8d67-4a2772c98751" />
-<img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/b964df75-dbda-4ca9-bffa-07ca4a6feff1" />
-<img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/a9b21e00-c3e9-4e87-8588-84047a174330" />
-<img width="552" height="167" alt="image" src="https://github.com/user-attachments/assets/145fd93d-5532-4ec9-a5a8-8e17cef0d6cd" />
-
-<img width="515" height="349" alt="image" src="https://github.com/user-attachments/assets/d486bb8c-76e7-4987-86a3-1d3d36be41b1" />
-<img width="615" height="431" alt="image" src="https://github.com/user-attachments/assets/b1edee96-f399-4d88-9977-10a701f19183" />
-
+<img width="556" height="373" alt="image" src="https://github.com/user-attachments/assets/00167a54-3139-461c-95e6-af5c5b8ff447" />
+<img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/17709b2c-9b1f-4b41-97a4-6c68d628bf99" />
+<img width="552" height="167" alt="image" src="https://github.com/user-attachments/assets/65fcf73a-04e0-4393-845e-269ef5efab23" />
+<img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/98c3a6be-c2e8-42f3-a4a8-366df593c6ab" />
+<img width="497" height="338" alt="image" src="https://github.com/user-attachments/assets/d7d6f0d3-d779-4423-8cf6-b3e38ff37c23" />
+<img width="515" height="349" alt="image" src="https://github.com/user-attachments/assets/24fe178e-479b-4329-88da-0861354d34af" />
+<img width="515" height="370" alt="image" src="https://github.com/user-attachments/assets/bcb7f4ae-e315-4f4e-a857-ddb0bbcda7b6" />
 
 ## Result: 
 
